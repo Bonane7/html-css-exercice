@@ -1,6 +1,7 @@
 .mainIndex{
 display: block;
 align-items: center;
+margin-top: 80px;
 }
 .hpop{
     display: flex;
